@@ -1,63 +1,84 @@
-<h1 align="center">Hey there! I'm Hemanshu Upadhyay 👋</h1>
-<h3 align="center">Senior Full Stack Developer | AWS Cloud ☁️ | Next.js 🚀 | React Native 📱</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6F8EE8&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Hemanshu+Upadhyay+%F0%9F%91%8B;Full+Stack+JavaScript+Developer" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/hemanshu-upadhyay-41957b1a8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/upadhyayhari_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/Hemanshu0412">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:upadhyayhri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### About Me 🚀
+## About Me
 
-With over 3 years of expertise in building performance-driven applications, I specialize in modern web and mobile development. I'm passionate about creating optimized, scalable solutions that make a real impact.
+> Building scalable web applications with modern JavaScript technologies
 
-- 🔭 Currently working as a **Senior Software Developer**
-- 🛠 Specialized in **React**, **Next.js**, and **TypeScript**
-- 📱 Experienced in **React Native** for iOS development
-- ☁️ Proficient in **AWS** cloud services and deployments
-- 🎨 Skilled in converting **Figma** designs into pixel-perfect components
-- 🤖 Leveraging **AI tools** to enhance development efficiency
+- 🔭 Currently working as a **Full Stack JavaScript Developer**
+- 🛠️ Specialized in **React**, **Next.js**, and **Node.js** ecosystem
+- 📱 Experienced in building mobile apps with **React Native**
+- 🏗️ Passionate about creating clean, efficient, and maintainable code
+- 🌱 Always learning and exploring new technologies
 
-### Tech Stack 💻
+## Tech Stack
 
-```text
-Frontend           React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS
-Mobile             React Native (iOS), Expo
-Backend            Node.js, Express.js, NestJS
-Database           MongoDB, PostgreSQL, Redis
-Cloud & DevOps     AWS, Docker, CI/CD
-Testing            Jest, React Testing Library
-Tools              Git, Figma, Postman
+```javascript
+{
+  frontend: {
+    web: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
+    mobile: ["React Native", "Expo"],
+    testing: ["Jest", "React Testing Library"]
+  },
+  backend: {
+    runtime: "Node.js",
+    frameworks: ["Express"],
+    databases: ["MongoDB", "PostgreSQL", "Redis"],
+    apis: ["REST", "GraphQL"]
+  },
+  devops: {
+    cloud: "AWS, Heroku, Vercel",
+    containers: "Docker",
+    ci_cd: ["GitHub Actions", "Gitlab CI/CD"]
+  }
+}
 ```
 
-### Current Focus 🎯
+## What I Do
 
-- Building scalable microservices architectures
-- Exploring AI integration in development workflows
-- Optimizing application performance
-- Contributing to open-source projects
+🎯 Build scalable, high-performance web and mobile applications
+🔄 Design and implement microservices architectures
+🚀 Optimize application performance and user experience
+👥 Mentor junior developers and conduct code reviews
+🔧 Create robust CI/CD pipelines for seamless deployments
 
-### Experience Highlights ⚡
 
-- Led development of high-performance web applications using Next.js and TypeScript
-- Implemented CI/CD pipelines and AWS infrastructure for seamless deployments
-- Developed responsive mobile applications using React Native
-- Optimized frontend performance resulting in significant load time improvements
-- Mentored junior developers and conducted code reviews
-
-### Let's Connect! 🤝
+## Let's Connect
 
 - 📧 Email: upadhyayhri@gmail.com
 - 💼 [LinkedIn Profile](https://linkedin.com/in/hemanshu-upadhyay-41957b1a8)
 - 📄 [Resume](https://drive.google.com/file/d/1p81f-JtHlBcdcZ81STWfxriKLkWvMt6W/view?usp=sharing)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanshu-upadhyay&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanshu-upadhyay&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanshu-upadhyay&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanshu-upadhyay&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <sub>💡 Always open to interesting projects and collaborations</sub>
+</div>
